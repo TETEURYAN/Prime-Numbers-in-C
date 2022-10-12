@@ -34,5 +34,5 @@ int main() {//In the main function, the number that will define the interval {1,
  
     scanf("%i", &num);
     ehprimo(num,0);
-    return 0;
+    return 0; 
 }
